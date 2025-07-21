@@ -1,3 +1,3 @@
-name = input("What is your name?")
-food = input("What is your favourite food?")
-print(f"Hi {Marvin}, I heard you love {noodles}!")
+name = input("What is your name\n?")
+food = input("What is your favourite food\n?")
+print(f"Hi {name}, I heard you love {food}!")
